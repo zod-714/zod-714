@@ -1,10 +1,6 @@
 <h1 align="center">Привет-привет! 👋🏻</h1>
 <h3 align="center">Zod | Москва | Backend</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shahzod2555&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🙋‍♂️ Немного обо мне:
