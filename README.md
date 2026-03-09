@@ -15,7 +15,7 @@
 ## 🛠️ Технологии, которые я использую:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,flutter,react,fastapi,docker,redis,linux,postgresql,mongodb,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,flutter,react" alt="Tech Stack" />
 </div>
 
 
