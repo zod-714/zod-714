@@ -1,8 +1,3 @@
-<h1 align="center">Привет-привет! 👋🏻</h1>
-<h3 align="center">Zod | Москва | Backend</h3>
-
----
-
 ## 🙋‍♂️ Немного обо мне:
 
 - 👋 Меня зовут **Zod**
@@ -22,15 +17,9 @@
 ---
 
 ## 📫 Связаться со мной:
+<a href="https://t.me/shokh43">Telegram</a>
+<a href="mailto:shokh6043@gmail.com">Gmail</a>
 
-<p align="center">
-	<a href="https://t.me/shokh43">
-		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-	</a>
-	<a href="mailto:shokh6043@gmail.com">
-		<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-	</a>
-</p>
 
 ---
 
