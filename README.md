@@ -8,10 +8,7 @@
 ---
 
 ## 🛠️ Технологии, которые я использую:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,flutter,react" alt="Tech Stack" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,go,flutter,react" alt="Tech Stack" />
 
 
 ---
